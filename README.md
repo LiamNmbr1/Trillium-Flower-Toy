@@ -1,7 +1,7 @@
 # Trillium Flower Toy
 This is a Trillium Flower Toy project made with a group of other students. The goal was to make a 3D printed puzzle that had a Canadian theme, we made a trillium flower in a pot that has a "blooming" affect when the base of the pot is twisted and could easily be assembled. 
 
-# Assembly Video Link
+## Assembly Video Link
 https://youtu.be/r-UgOA_WQNQ
 
 ## Bill of Materials
